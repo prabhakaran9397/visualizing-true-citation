@@ -23,4 +23,4 @@ bash> mysql -u username -p citations < AMiner-Paper.sql
 ```
 
 ##### Original Dataset
-https://aminer.org/aminearnetwork
+https://aminer.org/aminernetwork
